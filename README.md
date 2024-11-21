@@ -28,7 +28,6 @@ Problem-solving and algorithm design
 
 📫 Connect With Me:
 Email: rohitnairmuttathethu@gmail.com
-Instagram:__._r._.o._.h._.i._.t_._
 LinkedIn: 
 Portfolio: 
 
