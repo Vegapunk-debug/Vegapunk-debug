@@ -1,10 +1,10 @@
 Hi there! 👋 I'm ROHIT NAIR P
 
-🚀 About Me
+🚀 About Me:
 I'm a first-year BTech student passionate about technology, coding, and solving real-world problems. I enjoy exploring new technologies and working on innovative projects.
 I'm pursuing my Bachelor's degree in Computer Science, specializing in AI and ML at Newton School of Technology, Pune.
 
-👀 I’m Interested In
+👀 I’m Interested In:
 Artificial Intelligence and Machine Learning
 Robotics and Automation
 Full-stack Web Development
@@ -12,25 +12,27 @@ Data Science and Analytics
 Competitive Programming
 Open Source Contributions
 
-🛠️ Skills & Tools
+🛠️ Skills & Tools:
 Languages: C, Python
 Web Development: HTML, CSS
 Tools: VS Code
 
-🌟 Projects
+🌟 Projects:
 Coming Soon! Stay tuned for exciting updates.
 
-- 💞️ I’m looking to collaborate on ...
+💞️ I’m Looking to Collaborate On:
+Open-source contributions
+Web development projects
+Hackathons and coding challenges
+Problem-solving and algorithm design
 
-📫 Connect With Me
+📫 Connect With Me:
 Email: rohitnairmuttathethu@gmail.com
+Instagram:__._r._.o._.h._.i._.t_._
 LinkedIn: 
 Portfolio: 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+😄 Pronouns: He/Him
+⚡ Fun fact:▶️
 
-<!---
-Vegapunk-debug/Vegapunk-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
