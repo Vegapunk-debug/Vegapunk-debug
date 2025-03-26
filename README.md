@@ -1,37 +1,21 @@
-Hi there! 👋 I'm ROHIT NAIR P
 
-🚀 About Me:
-I'm a first-year BTech student passionate about technology, coding, and solving real-world problems. I enjoy exploring new technologies and working on innovative projects.
-I'm pursuing my Bachelor's degree in Computer Science, specializing in AI and ML at Newton School of Technology, Pune.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohit Nair P) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rohit Nair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitnairmuttathethu@gmail.com) 
 
-👀 I’m Interested In:
-Artificial Intelligence and Machine Learning
-Robotics and Automation
-Full-stack Web Development
-Data Science and Analytics
-Competitive Programming
-Open Source Contributions
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vegapunk-debug&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛠️ Skills & Tools:
-Languages: C, Python
-Web Development: HTML, CSS
-Tools: VS Code
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌟 Projects:
-Coming Soon! Stay tuned for exciting updates.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vegapunk-debug&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-💞️ I’m Looking to Collaborate On:
-Open-source contributions
-Web development projects
-Hackathons and coding challenges
-Problem-solving and algorithm design
+---
+[![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=1)](https://visitcount.itsvg.in)
 
-📫 Connect With Me:
-Email: rohitnairmuttathethu@gmail.com
-LinkedIn: 
-Portfolio: 
-
-😄 Pronouns: He/Him
-⚡ Fun fact:▶️
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
