@@ -1,4 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?weight=500&size=30&color=0DF75C&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)](https://git.io/typing-svg)
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rohit-nair-p-7a535b251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitnairmuttathethu@gmail.com) 
 
