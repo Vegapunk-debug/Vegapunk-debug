@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)]
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,vscode,vite,netlify,github,apple,bash,linkedin,gmail,instagram)
