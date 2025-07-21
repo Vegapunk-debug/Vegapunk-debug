@@ -13,11 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+
 ###
 
 ### ✍️ Random Dev Quote
