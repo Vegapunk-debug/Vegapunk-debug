@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
 
 # 💻 Tech Stack:
@@ -16,7 +18,6 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -24,6 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vegapunk-debug&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
+</div>
