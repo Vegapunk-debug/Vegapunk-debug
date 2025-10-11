@@ -56,7 +56,4 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/Vegapunk-debug/Vegapunk-debug/output/snake.svg" alt="Snake animation" />
-
 </div>
