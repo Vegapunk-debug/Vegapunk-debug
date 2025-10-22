@@ -40,7 +40,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vegapunk-debug/Vegapunk-debug/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -50,6 +54,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vegapunk-debug&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Author's Live Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Author%27s%20Live%20Contribution%20Activity)
 ---
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
 ---
