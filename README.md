@@ -22,6 +22,8 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
+# HackTober2025
+<img width="1400" height="371" alt="Screenshot 2025-10-29 at 4 36 18 PM" src="https://github.com/user-attachments/assets/b4a77aa0-c369-4c87-bfa0-6de435dcd09e" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
@@ -34,6 +36,7 @@
 
 
 <br clear="both">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vegapunk-debug&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
