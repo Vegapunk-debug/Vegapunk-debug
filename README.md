@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,vscode,vite,netlify,github,apple,bash,linkedin,gmail)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)(https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
