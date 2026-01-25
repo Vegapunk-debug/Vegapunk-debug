@@ -55,8 +55,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vegapunk-debug&limit=5&theme=dark&combineallyearlycontributions=true)
 
 ### Author's Live Activity Graph
 
