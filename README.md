@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
 
-# Tech Stack:
+# Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,vscode,vite,netlify,github,apple,bash,linkedin,gmail)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -26,11 +26,11 @@
 <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
 
 
-## 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitnairmuttathethu@gmail.com) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vegapunk-debug&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
