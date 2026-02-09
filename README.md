@@ -27,8 +27,10 @@
 
 
 # Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitnairmuttathethu@gmail.com) 
+[![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=40)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
+
+
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -65,4 +67,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&"  />
 </div>
+
+<img height="220" alt="Open to collaborations! Feel free to check out my repos or reach out." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
