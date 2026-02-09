@@ -26,9 +26,14 @@
 <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
 
 
-# Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitnairmuttathethu@gmail.com) 
+# Connect Me
+[<img width="47" height="47" alt="GitHub" src="https://github.com/user-attachments/assets/08a2e60a-1ef7-4196-9a2b-8969523c7b28" />](https://github.com/yourusername)
+[<img width="47" height="47" alt="email" src="https://github.com/user-attachments/assets/9511b24c-679d-487a-82d8-3718dd48dd47" />](mailto:rohitnairmuttathethu@gmail.com)
 [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=40)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
+[<img width="47" height="47" alt="X (Twitter)" src="https://github.com/user-attachments/assets/32ead89c-8466-4126-80ec-278dbdea80c1" />](https://x.com/RohitNairP1)
+
+
+
 
 
 
