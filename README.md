@@ -62,10 +62,7 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-### Author's Live Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Author%27s%20Live%20Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
 ---
