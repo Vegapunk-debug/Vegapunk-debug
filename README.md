@@ -46,8 +46,11 @@
 <br clear="both">
 
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vegapunk-debug&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+## GitHub Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark" alt="Profile Summary" />
+</p>
+
 
 ###
 
