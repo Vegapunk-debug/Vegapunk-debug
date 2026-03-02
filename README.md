@@ -1,8 +1,10 @@
 <div align="center">
+  <video width="600" controls>
+    <source src="one_piece.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 <picture>
-<p align="center">
-  <img src="one piece.mp4" alt="OnePiece" />
-</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
 <picture>
