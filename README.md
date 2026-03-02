@@ -1,4 +1,8 @@
 <div align="center">
+<picture>
+<p align="center">
+  <img src="" alt="GitHub Space Shooter" />
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
 <picture>
