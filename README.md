@@ -73,17 +73,8 @@
 </p>
 </picture
 
-<!--
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture> 
-!-->
-###
 
-<!--### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)!-->
+---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
