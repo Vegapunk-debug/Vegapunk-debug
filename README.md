@@ -1,18 +1,15 @@
 <div align="center">
-  <video width="600" controls>
-    <source src="one_piece.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 
 <picture>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
+
 <picture>
 <p align="center">
-  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="one_piece.gif" alt="one-piece" />
 </p>
-</picture>
-
+</picture
+<br>
 
 # Tech Stack
 
@@ -70,13 +67,19 @@
 
 
 ###
+<picture>
+<p align="center">
+  <img src="space-shooter.gif" alt="git" />
+</p>
+</picture
 
+<!--
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> 
-
+!-->
 ###
 
 <!--### Random Dev Quote
@@ -85,7 +88,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
----
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&"  />
 </div>
