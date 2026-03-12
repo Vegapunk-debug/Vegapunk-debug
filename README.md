@@ -47,20 +47,39 @@
 [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=40)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
 [<img width="47" height="47" alt="X (Twitter)" src="https://github.com/user-attachments/assets/32ead89c-8466-4126-80ec-278dbdea80c1" />](https://x.com/RohitNairP1)
 
+---
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vegapunk-debug&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# GitHub Statistics
 
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="500px" />
+    </td>
+    <!-- <td align="center" width="33.3%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px" />
+    </td> -->
+    <td align="center" width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Vegapunk-debug&theme=dark&hide_border=false" height="500px" />
+    </td>
+  </tr>
+  
+<tr>
+    <td colspan="3" align="center">
+      <p align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark" 
+          width="1000px" 
+          alt="Profile Summary" 
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
-
-
-## GitHub Summary
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark" alt="Profile Summary" />
-</p>
+</p> -->
 
 
 ###
@@ -71,7 +90,7 @@
 </picture
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&theme=react-dark&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
 <div align="center">
