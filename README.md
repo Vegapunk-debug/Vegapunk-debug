@@ -77,11 +77,6 @@
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark" alt="Profile Summary" />
-</p> -->
-
-
 ###
 <picture>
 <p align="center">
