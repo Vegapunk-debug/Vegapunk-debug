@@ -60,7 +60,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px" />
     </td> -->
     <td align="center" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Vegapunk-debug&theme=dark&hide_border=false" height="500px" />
+      <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
+        <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </a>
     </td>
   </tr>
   
