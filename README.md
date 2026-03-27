@@ -61,7 +61,7 @@
     </td> -->
     <td align="center" width="50%">
       <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
-        <!-- <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=highcontrast&hide_border=true" alt="GitHub Streak" /> -->
+        <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
