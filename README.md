@@ -50,23 +50,19 @@
 ---
 
 # GitHub Statistics
-
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="500px" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark" height="500px" />
     </td>
-    <!-- <td align="center" width="33.3%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vegapunk-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px" />
-    </td> -->
     <td align="center" width="50%">
       <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
-        <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   
-<tr>
+  <tr>
     <td colspan="3" align="center">
       <p align="center">
         <img 
@@ -98,4 +94,3 @@
 
 ---
 </div>
-
