@@ -35,8 +35,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
-# HackToberFest2025
-<img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
+<!-- <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" /> -->
 
 
 # Connect Me
@@ -75,16 +74,18 @@
   </tr>
 </table>
 
-###
-<picture>
+<!-- <picture>
 <p align="center">
   <img src="space-shooter.gif" alt="git" />
 </p>
-</picture
+</picture -->
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
+# HackToberFest2025
+<img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
+
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&"  width='30%'/>
