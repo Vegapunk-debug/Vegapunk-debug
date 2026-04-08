@@ -39,13 +39,39 @@
 
 
 # Connect Me
-[<img width="47" height="47" alt="GitHub" src="https://github.com/user-attachments/assets/08a2e60a-1ef7-4196-9a2b-8969523c7b28" />](https://github.com/Vegapunk-debug)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohitnairmuttathethu@gmail.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9511b24c-679d-487a-82d8-3718dd48dd47" width="47" height="47" alt="email">
-</a>
-[![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=40)](https://www.linkedin.com/in/rohit-nair-p-7a535b251/)
-[<img width="47" height="47" alt="X (Twitter)" src="https://github.com/user-attachments/assets/32ead89c-8466-4126-80ec-278dbdea80c1" />](https://x.com/RohitNairP1)
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+        <a href="https://www.linkedin.com/in/rohit-nair-p-7a535b251/" target="blank">
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  margin="5"/>
+        </a>
+       <br>Linkedin
+    </td>
+     <td align="center" width="70">
+      <a href="https://x.com/RohitNairP1" target="blank">
+        <img src="https://github.com/user-attachments/assets/32ead89c-8466-4126-80ec-278dbdea80c1" width="55" height="40" alt="twitter logo"  />
+      </a>
+        <br>Twitter
+    </td>
+     <td align="center" width="70">
+        <a href="mailto:rohitnairmuttathethu@gmail.com">
+        <img src="https://github.com/user-attachments/assets/9511b24c-679d-487a-82d8-3718dd48dd47" width="55" height="40" alt="gmail logo"  /> 
+        </a>
+         <br>Gmail
+      </td>
+      <td align="center" width="70">
+        <a href="https://leetcode.com/u/Rohit_2006/" target="blank">
+        <img src="" width="55" height="40" alt="leetcode logo"  />
+        </a>
+       <br>Leetcode
+    </td>
+     
+  </tr>
 
+</table> 
+</div>
+</div>
+<br clear="both"/>
 ---
 
 # GitHub Statistics
