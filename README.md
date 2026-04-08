@@ -61,7 +61,7 @@
       </td>
       <td align="center" width="70">
         <a href="https://leetcode.com/u/Rohit_2006/" target="blank">
-        <img src="" width="55" height="40" alt="leetcode logo"  />
+        <img src="leet.png" width="55" height="45" alt="leetcode logo"  />
         </a>
        <br>Leetcode
     </td>
