@@ -74,8 +74,11 @@
 <br clear="both"/>
 
 ---
-
+<div align="center">
+  
 # GitHub Statistics
+
+</div>
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="50%">
@@ -110,7 +113,12 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
 ---
+
+<div align="center">
+  
 # HackToberFest2025
+
+</div>
 <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
 
 [![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
