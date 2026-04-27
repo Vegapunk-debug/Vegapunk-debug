@@ -78,19 +78,41 @@
   
 # GitHub Statistics
 
-</div>
+
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+
+  <!-- Row 1: Stats | Repos | Commits -->
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark" height="500px" />
+    <td align="center" width="33%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vegapunk-debug&theme=github_dark" />
     </td>
-    <td align="center" width="50%">
-      <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
-        <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-      </a>
+    <td align="center" width="33%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vegapunk-debug&theme=github_dark" />
+    </td>
+    <td align="center" width="33%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vegapunk-debug&theme=github_dark" />
     </td>
   </tr>
-  
+
+  <!-- Row 2: GitHub Stats | Streak (50/50 via nested table) -->
+  <tr>
+    <td colspan="3">
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td align="center" width="50%">
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark&title_color=39FF14" height="500px" />
+          </td>
+          <td align="center" width="50%">
+            <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
+              <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Row 3: Profile Details (full width) -->
   <tr>
     <td colspan="3" align="center">
       <p align="center">
@@ -102,13 +124,9 @@
       </p>
     </td>
   </tr>
+
 </table>
 
-<!-- <picture>
-<p align="center">
-  <img src="space-shooter.gif" alt="git" />
-</p>
-</picture -->
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
