@@ -78,19 +78,18 @@
   
 # GitHub Statistics
 
-
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
 
   <!-- Row 1: Stats | Repos | Commits -->
   <tr>
     <td align="center" width="33%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vegapunk-debug&theme=github_dark" />
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
     </td>
     <td align="center" width="33%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vegapunk-debug&theme=github_dark" />
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
     </td>
     <td align="center" width="33%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vegapunk-debug&theme=github_dark" />
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
     </td>
   </tr>
 
@@ -100,11 +99,11 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="2">
         <tr>
           <td align="center" width="50%">
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark&title_color=39FF14" height="500px" />
+            <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark&title_color=39FF14" />
           </td>
           <td align="center" width="50%">
             <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
-              <img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+              <img width="100%" src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true&currStreakLabel=39FF14&sideLabels=39FF14" alt="GitHub Streak" />
             </a>
           </td>
         </tr>
@@ -115,13 +114,7 @@
   <!-- Row 3: Profile Details (full width) -->
   <tr>
     <td colspan="3" align="center">
-      <p align="center">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark" 
-          width="1000px" 
-          alt="Profile Summary" 
-        />
-      </p>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" alt="Profile Summary" />
     </td>
   </tr>
 
