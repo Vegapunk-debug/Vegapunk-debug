@@ -78,7 +78,7 @@
   
 # GitHub Statistics
 
-<table align="center" width="50%" border="0" cellspacing="0" cellpadding="2">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
 
   <!-- Row 1: Stats | Repos | Commits -->
   <tr>
