@@ -71,6 +71,10 @@
 </table> 
 </div>
 </div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&left_color=grey&right_color=black&left_text=VISITORS" width='30%'/>
+</div>
 <br clear="both"/>
 
 ---
@@ -131,9 +135,6 @@
 ---
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&left_color=grey&right_color=black&left_text=VISITORS" width='30%'/>
-
----
 
 <img height="220" alt="Open to collaborations! Feel free to check out my repos or reach out." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
