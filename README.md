@@ -1,5 +1,4 @@
 <div align="center">
-
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
 <picture>
@@ -118,9 +117,6 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true&area=true&custom_title=Rohit%27s%20Live%20Contribution%20Activity)
----
-
 <div align="center">
   
 # HackToberFest2025
@@ -128,12 +124,23 @@
 </div>
 <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" />
 
-[![](https://visitcount.itsvg.in/api?id=Vegapunk-debug&icon=2&color=3)](https://visitcount.itsvg.in)
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&"  width='30%'/>
-</div>
-
-<img height="220" alt="Open to collaborations! Feel free to check out my repos or reach out." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug"  width='30%'/>
+</div> -->
 
 ---
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&left_color=grey&right_color=black&left_text=VISITORS" width='30%'/>
+<img height="220" alt="Open to collaborations! Feel free to check out my repos or reach out." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=222222&border=ffffff" width="805" style="margin-top: 10px;" alt="Activity Graph" />
+</p>
+
+</div>
+
