@@ -75,26 +75,45 @@
 <br clear="both"/>
 
 ---
-<div align="center">
-  
-# GitHub Statistics
-
-# GitHub Statistics
 
 <div align="center">
 
-<!-- Row 1: 3 cards -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" width="280px"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" width="280px"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" width="280px"/>
+# GitHub Statistics
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
 
-<!-- Row 2: Stats + Streak -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark&title_color=39FF14" width="420px"/>
-<img src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true&currStreakLabel=39FF14&sideLabels=39FF14" width="420px"/>
+  <!-- Row 1: 3 equal cards (each spans 2 of 6 columns) -->
+  <tr>
+    <td align="center" colspan="2">
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
+    </td>
+    <td align="center" colspan="2">
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
+    </td>
+    <td align="center" colspan="2">
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" />
+    </td>
+  </tr>
 
-<!-- Row 3: Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" width="860px"/>
+  <!-- Row 2: 2 equal cards (each spans 3 of 6 columns) -->
+  <tr>
+    <td align="center" colspan="3">
+      <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Vegapunk-debug&show_icons=true&theme=github_dark&title_color=39FF14" />
+    </td>
+    <td align="center" colspan="3">
+      <a href="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=dark&hide_border=true">
+        <img width="100%" src="https://streak-stats.demolab.com?user=Vegapunk-debug&theme=github_dark&hide_border=true&currStreakLabel=39FF14&sideLabels=39FF14" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
 
+  <!-- Row 3: Full width (spans all 6 columns) -->
+  <tr>
+    <td colspan="6" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vegapunk-debug&theme=github_dark&title_color=39FF14" alt="Profile Summary" />
+    </td>
+  </tr>
+
+</table>
 </div>
 
 ---
