@@ -1,11 +1,19 @@
 <div align="center">
-  
+
+
+
+
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZED...;WELCOME+TO+THE+LAB;COOKING+MASTERPIECES...;VEGAPUNK+DEBUG+ACTIVE" alt="Typing SVG" />
+</div> -->
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0DF75C&width=435&lines=Hi+There!!!;I+am+Rohit+Nair+P+!)
-<picture>
+<!-- <picture>
 <p align="center">
   <img src="one_piece.gif" alt="one-piece" height='300' width='100%'/>
 </p>
-</picture>
+</picture> -->
 <br>
 
 <div align="center">
@@ -136,6 +144,11 @@
 <div align="center">
 
 <img height="220" alt="Open to collaborations! Feel free to check out my repos or reach out." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<picture>
+<p align="center">
+  <img src="one_piece.gif" alt="one-piece" height='200' width='100%'/>
+</p>
+</picture>
 
 </div>
 
