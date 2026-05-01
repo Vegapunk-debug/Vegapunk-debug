@@ -61,14 +61,20 @@
 </table>
 </div>
 
-# Tech Stack
 
-<picture>
+<div align="center">
+<img width="100%" src="./tech_stack_header.svg"/>
+<img width="100%" src="./tech_stack_table.svg"/>
+</div>
+
+
+<!-- <div>
+# Tech Stack
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
+</picture> 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,vscode,vite,netlify,github,apple,bash,linkedin,gmail)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -87,6 +93,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+</div> -->
 
 <!-- <img width="1193" height="379" alt="Screenshot 2025-11-25 at 11 46 34 PM" src="https://github.com/user-attachments/assets/be5c3dbf-ad3a-4bb7-bcfa-f0c43a927899" /> -->
 
