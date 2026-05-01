@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+There!!!;I+am+Rohit+Nair+P+!" alt="Typing SVG" />
+  
 </div>
 <div align="center">
 <img width="100%" src="./about_me.svg"/>
@@ -24,6 +25,7 @@
 <div align="center">
 
 # GitHub Statistics
+
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
 
   <!-- Row 1: 3 equal cards (each spans 2 of 6 columns) -->
@@ -59,6 +61,7 @@
   </tr>
 
 </table>
+
 </div>
 
 
