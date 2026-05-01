@@ -19,11 +19,11 @@
   <rect width="800" height="278" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
 
   <!-- Floating 3D Title -->
-  <g class="tg">
+  <!-- <g class="tg">
     <text x="402" y="44" text-anchor="middle" font-family="Courier New,monospace" font-size="32" font-weight="700" fill="#082505" letter-spacing="8">ABOUT ME</text>
     <text x="401" y="43" text-anchor="middle" font-family="Courier New,monospace" font-size="32" font-weight="700" fill="#165708" letter-spacing="8">ABOUT ME</text>
     <text x="400" y="42" text-anchor="middle" font-family="Courier New,monospace" font-size="32" font-weight="700" fill="#39FF14" letter-spacing="8">ABOUT ME</text>
-  </g>
+  </g> -->
 
   <!-- Divider + subtitle -->
   <line x1="300" y1="53" x2="500" y2="53" stroke="#39FF14" stroke-width="0.8" class="a1"/>
