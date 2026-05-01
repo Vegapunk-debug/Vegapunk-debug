@@ -74,6 +74,7 @@
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegapunk-debug&left_color=grey&right_color=black&left_text=VISITORS" width='30%'/>
+  
 </div>
 <br clear="both"/>
 
@@ -142,9 +143,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=222222&border=ffffff" width="805" style="margin-top: 10px;" alt="Activity Graph" />
-</p>
-
 </div>
-
+<!-- <p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vegapunk-debug&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=222222&border=ffffff" width="200" style="margin-top: 10px;" alt="Activity Graph" />
+</p> -->
