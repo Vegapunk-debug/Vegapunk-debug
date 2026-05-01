@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+    .tg{animation:float 3s ease-in-out infinite}
+    .a1{animation:fadeIn .4s ease .3s both}
+    .a2{animation:fadeIn .4s ease .5s both}
+    .a3{animation:fadeIn .4s ease .75s both}
+    .a4{animation:fadeIn .4s ease 1s both}
+    .a5{animation:fadeIn .4s ease 1.25s both}
+    .a6{animation:fadeIn .4s ease 1.5s both}
+    .a7{animation:fadeIn .4s ease 1.75s both}
+    .cur{animation:blink 1s step-end infinite}
+  </style></defs>
+  <rect width="800" height="260" rx="12" fill="#0d1117"/>
+  <rect width="800" height="260" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
+  <g class="tg">
+    <text x="402" y="52" text-anchor="middle" font-family="Courier New,monospace" font-size="36" font-weight="700" fill="#0a2904" letter-spacing="8">ABOUT ME</text>
+    <text x="401" y="51" text-anchor="middle" font-family="Courier New,monospace" font-size="36" font-weight="700" fill="#165708" letter-spacing="8">ABOUT ME</text>
+    <text x="400" y="50" text-anchor="middle" font-family="Courier New,monospace" font-size="36" font-weight="700" fill="#39FF14" letter-spacing="8">ABOUT ME</text>
+  </g>
+  <line x1="355" y1="61" x2="445" y2="61" stroke="#39FF14" stroke-width="1" class="a1"/>
+  <text x="400" y="76" text-anchor="middle" font-family="Courier New,monospace" font-size="12" fill="#8b949e" class="a1">Full Stack Dev  ·  One Piece Fan  ·  Open Source Enthusiast</text>
+  <rect x="30" y="88" width="740" height="160" rx="7" fill="#010409" stroke="#30363d" stroke-width="0.5" class="a1"/>
+  <rect x="30.25" y="88.25" width="739.5" height="26" rx="6" fill="#161b22" class="a1"/>
+  <rect x="30.25" y="101" width="739.5" height="13" fill="#161b22" class="a1"/>
+  <circle cx="52" cy="101" r="4.5" fill="#ff5f57" class="a1"/>
+  <circle cx="68" cy="101" r="4.5" fill="#ffbd2e" class="a1"/>
+  <circle cx="84" cy="101" r="4.5" fill="#28c840" class="a1"/>
+  <text x="400" y="105" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#8b949e" class="a1">rohit@vegapunk-debug: ~/profile</text>
+  <text x="48" y="130" font-family="Courier New,monospace" font-size="13" class="a2"><tspan fill="#39FF14">❯ </tspan><tspan fill="#8b949e">whoami</tspan></text>
+  <text x="62" y="148" font-family="Courier New,monospace" font-size="13" fill="#e6edf3" class="a3">Rohit Nair P  —  Full Stack Developer  ·  Pimpri, India</text>
+  <text x="48" y="167" font-family="Courier New,monospace" font-size="13" class="a4"><tspan fill="#39FF14">❯ </tspan><tspan fill="#8b949e">cat interests.txt</tspan></text>
+  <text x="62" y="185" font-family="Courier New,monospace" font-size="13" class="a5"><tspan fill="#ffa657">MERN Stack</tspan><tspan fill="#8b949e">  ·  </tspan><tspan fill="#79c0ff">React Native</tspan><tspan fill="#8b949e">  ·  </tspan><tspan fill="#7ee787">Open Source</tspan><tspan fill="#8b949e">  ·  </tspan><tspan fill="#f78166">One Piece</tspan></text>
+  <text x="48" y="204" font-family="Courier New,monospace" font-size="13" class="a6"><tspan fill="#39FF14">❯ </tspan><tspan fill="#8b949e">echo $STATUS</tspan></text>
+  <text x="62" y="222" font-family="Courier New,monospace" font-size="13" class="a7"><tspan fill="#e6edf3">Building cool stuff  |  965 commits  |  29 repos  |  Open to collaborate!</tspan><tspan fill="#39FF14" class="cur">█</tspan></text>
+</svg>
