@@ -1,0 +1,179 @@
+<svg width="100%" viewBox="0 0 800 370" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>
+    @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    .a1{animation:fadeIn .4s ease .2s both}
+    .a2{animation:fadeIn .4s ease .4s both}
+    .a3{animation:fadeIn .4s ease .6s both}
+    .a4{animation:fadeIn .4s ease .8s both}
+    .a5{animation:fadeIn .4s ease 1s both}
+    .a6{animation:fadeIn .4s ease 1.2s both}
+    .a7{animation:fadeIn .4s ease 1.4s both}
+    .p1{animation:pulse 2s ease-in-out infinite}
+    .p2{animation:pulse 2s ease-in-out .3s infinite}
+    .p3{animation:pulse 2s ease-in-out .6s infinite}
+    .p4{animation:pulse 2s ease-in-out .9s infinite}
+    .p5{animation:pulse 2s ease-in-out 1.2s infinite}
+    .p6{animation:pulse 2s ease-in-out 1.5s infinite}
+    .p7{animation:pulse 2s ease-in-out 1.8s infinite}
+  </style></defs>
+
+  <rect width="800" height="370" rx="12" fill="#0d1117"/>
+  <rect width="800" height="370" rx="12" fill="none" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Header row -->
+  <rect x="0" y="0" width="800" height="30" rx="10" fill="#161b22"/>
+  <rect x="0" y="20" width="800" height="10" fill="#161b22"/>
+  <line x1="175" y1="0" x2="175" y2="30" stroke="#30363d" stroke-width="0.5"/>
+  <text x="87" y="20" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#39FF14" font-weight="700" letter-spacing="2">CATEGORY</text>
+  <text x="487" y="20" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#39FF14" font-weight="700" letter-spacing="2">TECHNOLOGIES</text>
+
+  <!-- Row dividers -->
+  <line x1="0" y1="80" x2="800" y2="80" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="130" x2="800" y2="130" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="180" x2="800" y2="180" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="230" x2="800" y2="230" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="285" x2="800" y2="285" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="0" y1="335" x2="800" y2="335" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Column divider -->
+  <line x1="175" y1="30" x2="175" y2="370" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ROW 1: Languages -->
+  <g class="a1">
+    <circle cx="26" cy="55" r="4" fill="#39FF14" class="p1"/>
+    <text x="42" y="59" font-family="Courier New,monospace" font-size="11" fill="#8b949e">Languages</text>
+    <rect x="185" y="40" width="52" height="20" rx="3" fill="#1c1500" stroke="#ffa657" stroke-width="0.5"/>
+    <text x="211" y="54" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#ffa657">JS</text>
+    <rect x="245" y="40" width="82" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="286" y="54" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">TypeScript</text>
+    <rect x="335" y="40" width="62" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="366" y="54" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">Python</text>
+    <rect x="405" y="40" width="52" height="20" rx="3" fill="#1a0a00" stroke="#f78166" stroke-width="0.5"/>
+    <text x="431" y="54" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f78166">HTML</text>
+    <rect x="465" y="40" width="42" height="20" rx="3" fill="#0d001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="486" y="54" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">CSS</text>
+    <!-- row 2 badges -->
+    <rect x="185" y="63" width="52" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="211" y="77" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">NoSQL</text>
+  </g>
+
+  <!-- ROW 2: Frontend -->
+  <g class="a2">
+    <circle cx="26" cy="105" r="4" fill="#79c0ff" class="p2"/>
+    <text x="42" y="109" font-family="Courier New,monospace" font-size="11" fill="#8b949e">Frontend</text>
+    <rect x="185" y="90" width="52" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="211" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">React</text>
+    <rect x="245" y="90" width="62" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="276" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">Next.js</text>
+    <rect x="315" y="90" width="92" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="361" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">React Native</text>
+    <rect x="415" y="90" width="92" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="461" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Tailwind CSS</text>
+    <rect x="515" y="90" width="112" height="20" rx="3" fill="#1a001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="571" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">Framer Motion</text>
+    <rect x="635" y="90" width="42" height="20" rx="3" fill="#1c1500" stroke="#ffa657" stroke-width="0.5"/>
+    <text x="656" y="104" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#ffa657">Expo</text>
+  </g>
+
+  <!-- ROW 3: Backend -->
+  <g class="a3">
+    <circle cx="26" cy="155" r="4" fill="#56d364" class="p3"/>
+    <text x="42" y="159" font-family="Courier New,monospace" font-size="11" fill="#8b949e">Backend</text>
+    <rect x="185" y="140" width="62" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="216" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">Node.js</text>
+    <rect x="255" y="140" width="82" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="296" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">Express.js</text>
+    <rect x="345" y="140" width="62" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="376" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">FastAPI</text>
+    <rect x="415" y="140" width="42" height="20" rx="3" fill="#1a0000" stroke="#f85149" stroke-width="0.5"/>
+    <text x="436" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f85149">JWT</text>
+    <rect x="465" y="140" width="82" height="20" rx="3" fill="#1a0000" stroke="#f85149" stroke-width="0.5"/>
+    <text x="506" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f85149">OAuth 2.0</text>
+    <rect x="555" y="140" width="72" height="20" rx="3" fill="#1c1500" stroke="#ffa657" stroke-width="0.5"/>
+    <text x="591" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#ffa657">Swagger</text>
+    <rect x="635" y="140" width="72" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="671" y="154" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">Nodemon</text>
+  </g>
+
+  <!-- ROW 4: Database -->
+  <g class="a4">
+    <circle cx="26" cy="205" r="4" fill="#ffa657" class="p4"/>
+    <text x="42" y="209" font-family="Courier New,monospace" font-size="11" fill="#8b949e">Database</text>
+    <rect x="185" y="190" width="72" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="221" y="204" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">MongoDB</text>
+    <rect x="265" y="190" width="82" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="306" y="204" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">PostgreSQL</text>
+    <rect x="355" y="190" width="52" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="381" y="204" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">MySQL</text>
+    <rect x="415" y="190" width="82" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="456" y="204" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">Prisma ORM</text>
+    <rect x="505" y="190" width="72" height="20" rx="3" fill="#1a001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="541" y="204" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">Supabase</text>
+  </g>
+
+  <!-- ROW 5: AI/ML -->
+  <g class="a5">
+    <circle cx="26" cy="257" r="4" fill="#d2a8ff" class="p5"/>
+    <text x="42" y="261" font-family="Courier New,monospace" font-size="11" fill="#8b949e">AI / ML</text>
+    <rect x="185" y="240" width="42" height="20" rx="3" fill="#0d001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="206" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">LLMs</text>
+    <rect x="235" y="240" width="42" height="20" rx="3" fill="#0d001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="256" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">RAG</text>
+    <rect x="285" y="240" width="82" height="20" rx="3" fill="#0d001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="326" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">LangGraph</text>
+    <rect x="375" y="240" width="92" height="20" rx="3" fill="#0d001a" stroke="#d2a8ff" stroke-width="0.5"/>
+    <text x="421" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#d2a8ff">Gemini API</text>
+    <rect x="475" y="240" width="92" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="521" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">Scikit-learn</text>
+    <rect x="575" y="240" width="52" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="601" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">NumPy</text>
+    <rect x="635" y="240" width="52" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="661" y="254" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Pandas</text>
+    <!-- row 2 -->
+    <rect x="185" y="263" width="72" height="20" rx="3" fill="#1c1500" stroke="#ffa657" stroke-width="0.5"/>
+    <text x="221" y="277" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#ffa657">Streamlit</text>
+    <rect x="265" y="263" width="72" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="301" y="277" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">RandomForest</text>
+    <rect x="345" y="263" width="62" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="376" y="277" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">K-Means</text>
+  </g>
+
+  <!-- ROW 6: DevTools -->
+  <g class="a6">
+    <circle cx="26" cy="310" r="4" fill="#f78166" class="p6"/>
+    <text x="42" y="314" font-family="Courier New,monospace" font-size="11" fill="#8b949e">DevTools</text>
+    <rect x="185" y="295" width="42" height="20" rx="3" fill="#1a0a00" stroke="#f78166" stroke-width="0.5"/>
+    <text x="206" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f78166">Git</text>
+    <rect x="235" y="295" width="112" height="20" rx="3" fill="#1a0a00" stroke="#f78166" stroke-width="0.5"/>
+    <text x="291" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f78166">GitHub Actions</text>
+    <rect x="355" y="295" width="52" height="20" rx="3" fill="#1a0a00" stroke="#f78166" stroke-width="0.5"/>
+    <text x="381" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#f78166">Bash</text>
+    <rect x="415" y="295" width="62" height="20" rx="3" fill="#001a0d" stroke="#56d364" stroke-width="0.5"/>
+    <text x="446" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#56d364">VSCode</text>
+    <rect x="485" y="295" width="52" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="511" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">Vercel</text>
+    <rect x="545" y="295" width="62" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="576" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">Netlify</text>
+    <rect x="615" y="295" width="42" height="20" rx="3" fill="#001a33" stroke="#79c0ff" stroke-width="0.5"/>
+    <text x="636" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#79c0ff">Vite</text>
+    <rect x="665" y="295" width="52" height="20" rx="3" fill="#1c1500" stroke="#ffa657" stroke-width="0.5"/>
+    <text x="691" y="309" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#ffa657">Figma</text>
+  </g>
+
+  <!-- ROW 7: Soft Skills -->
+  <g class="a7">
+    <circle cx="26" cy="352" r="4" fill="#38bdf8" class="p7"/>
+    <text x="42" y="356" font-family="Courier New,monospace" font-size="11" fill="#8b949e">Soft Skills</text>
+    <rect x="185" y="340" width="102" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="236" y="354" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Problem Solving</text>
+    <rect x="295" y="340" width="112" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="351" y="354" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Critical Thinking</text>
+    <rect x="415" y="340" width="102" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="466" y="354" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Communication</text>
+    <rect x="525" y="340" width="72" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="561" y="354" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Creativity</text>
+    <rect x="605" y="340" width="92" height="20" rx="3" fill="#001429" stroke="#38bdf8" stroke-width="0.5"/>
+    <text x="651" y="354" text-anchor="middle" font-family="Courier New,monospace" font-size="10" fill="#38bdf8">Presentation</text>
+  </g>
+</svg>
