@@ -130,7 +130,7 @@
     </td>
     <td align="center" width="70">
         <a href="https://rohitnairportfolio.framer.website" target="blank">
-        <img src=".png" width="55" height="45" alt="leetcode logo"  />
+        <img src="por.png" width="55" height="45" alt="leetcode logo"  />
         </a>
        <br>Portfolio
     </td>
