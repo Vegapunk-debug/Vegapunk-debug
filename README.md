@@ -123,10 +123,16 @@
          <br>Gmail
       </td>
       <td align="center" width="70">
-        <a href="https://leetcode.com/u/Rohit_2006/" target="blank">
+        <a href="https://leetcode.com/u/Rohit_2006" target="blank">
         <img src="leet.png" width="55" height="45" alt="leetcode logo"  />
         </a>
        <br>Leetcode
+    </td>
+    <td align="center" width="70">
+        <a href="https://rohitnairportfolio.framer.website" target="blank">
+        <img src=".png" width="55" height="45" alt="leetcode logo"  />
+        </a>
+       <br>Portfolio
     </td>
      
   </tr>
