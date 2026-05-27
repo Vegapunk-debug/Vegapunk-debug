@@ -125,7 +125,7 @@
       <b>FastAPI</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jwt&theme=dark" width="48" height="48" alt="JWT Auth" /><br>
+      <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="48" height="48" alt="JWT Auth" /><br>
       <b>JWT Auth</b>
     </td>
   </tr>
@@ -245,7 +245,7 @@
       <b>Saas</b>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=1G3UNEZHMjPH&format=png&color=000000" width="48" height="48" alt="Claude" /><br>
+      <img src="https://img.icons8.com/?size=100&id=1G3UNEZHMjPH&format=png&color=ED7429" width="48" height="48" alt="Claude" /><br>
       <b>Claude</b>
     </td>
         <td align="center" width="96">
