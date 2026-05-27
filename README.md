@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://simpleicons.org/icons/mongoose.svg" width="48" height="48" alt="Mongoose" /><br>
+      <img src="https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000" width="48" height="48" alt="Mongoose" /><br>
       <b>Mongoose</b>
     </td>
     <td align="center" width="96">
@@ -249,7 +249,7 @@
       <b>Claude</b>
     </td>
         <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=4gUIAQbx9oh5&format=png" width="48" height="48" alt="Cursor" /><br>
+      <img src="https://img.icons8.com/?size=100&id=WSo7jgx1Cz2d&format=png&color=000000" width="48" height="48" alt="Cursor" /><br>
       <b>Cursor</b>
     </td>
   </tr>
