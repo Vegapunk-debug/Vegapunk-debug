@@ -1,5 +1,16 @@
 <div align="center">
 
+
+<!-- ## Star History
+
+<a href="https://www.star-history.com/?repos=vegapunk-debug%2Fvegapunk-debug&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=vegapunk-debug/vegapunk-debug&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=vegapunk-debug/vegapunk-debug&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=vegapunk-debug/vegapunk-debug&type=date&legend=top-left" />
+ </picture>
+</a> -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+There!!!;I+am+Rohit+Nair+P+!" alt="Typing SVG" />
   
